@@ -1,0 +1,1 @@
+export const sampleText = '# Markdown editor in ReactJS. \n# H1 \n# H2 \n# H3 \n# H4 \n# H5 \n# H6\n'
